@@ -1,0 +1,13 @@
+pip install gym      
+pip install gym-notebook-wrapper
+pip install gym[classic_control]
+pip install pyglet
+pip install ipywidgets
+pip install PyVirtualDisplay
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+pip install pygame
+pip install mujoco-py
+pip install gym[atari]  
+pip install Box2D  
+pip install ale-py    
+pip install gym[accept-rom-license]
